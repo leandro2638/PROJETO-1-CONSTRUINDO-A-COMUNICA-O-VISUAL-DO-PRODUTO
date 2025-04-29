@@ -12,5 +12,5 @@
 # Tipografia:
 ## Rammentto One
 ### Escolhemos essa Tipografia pois ela é simples e de facil comprieensão.
-# exemplos de Elementos Visuais
-
+# exemplos de Elementos Visuais:
+## Um bom exemplo de Elemento Visual é a logo da INNOVATION que é chamativa e bem direta na sua proposta.
