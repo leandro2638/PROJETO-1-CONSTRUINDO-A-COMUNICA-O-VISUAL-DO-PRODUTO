@@ -1,4 +1,7 @@
 # PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
+# Desenvolvedores: João Leandro Silva Sousa e Paulo Eduardo santos Farias
+## Materia: Gestão de Startup
+## Professor: Everson Sousa
 
 # Paleta de cores:
 ## Preto: #302e2e
@@ -9,3 +12,5 @@
 # Tipografia:
 ## Rammentto One
 ### Escolhemos essa Tipografia pois ela é simples e de facil comprieensão.
+# exemplos de Elementos Visuais
+
