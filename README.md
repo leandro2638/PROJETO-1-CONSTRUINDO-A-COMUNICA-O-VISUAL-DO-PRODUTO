@@ -1,6 +1,6 @@
 # PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
 # Desenvolvedores: João Leandro Silva Sousa e Paulo Eduardo Santos Farias
-## Materia: Gestão de Startup
+## Materia: Gestão de Startup III
 ## Professor: Everson Sousa
 
 # Paleta de cores:
