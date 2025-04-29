@@ -1,5 +1,5 @@
 # PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
-# Desenvolvedores: João Leandro Silva Sousa e Paulo Eduardo santos Farias
+# Desenvolvedores: João Leandro Silva Sousa e Paulo Eduardo Santos Farias
 ## Materia: Gestão de Startup
 ## Professor: Everson Sousa
 
